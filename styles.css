@@ -103,4 +103,8 @@
     cursor: pointer;
     outline: none;
   }
+
+  .note button:hover{
+    color: red;
+  }
   
